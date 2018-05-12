@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18353#La-petite-roque
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2006-05-08'
 gutenberg_type: Text
